@@ -1,0 +1,1012 @@
+﻿Log file open, 02/18/20 15:22:17
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Ray_In_the_Dark
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.160511
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.24-CL-11100242
+LogInit: Engine Version: 4.24.2-11100242+++UE4+Release-4.24
+LogInit: Compatible Engine Version: 4.24.0-10570792+++UE4+Release-4.24
+LogInit: Net CL: 10570792
+LogInit: OS: Windows 10 (Release 1809) (), CPU: Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz, GPU: Intel(R) HD Graphics 630
+LogInit: Compiled (64-bit): Jan 24 2020 02:05:53
+LogInit: Compiled with Visual C++: 19.16.27032.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.24
+LogInit: Command Line:  -EpicPortal -epicusername=Dr.Oum -epicuserid=7614e87c48a846b289a1825706eaffd3 -epiclocale=en
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.24/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 25
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 37
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 36
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 2
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 36
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 8
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 8
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.02.18-20.22.18:211][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.02.18-20.22.18:211][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.02.18-20.22.18:211][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/seans/OneDrive/Documents/GitHub/A-Ray-in-the-Dark/Ray_In_the_Dark/Saved/Config/Windows/Engine.ini]
+[2020.02.18-20.22.18:211][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.02.18-20.22.18:211][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/seans/OneDrive/Documents/GitHub/A-Ray-in-the-Dark/Ray_In_the_Dark/Saved/Config/Windows/Engine.ini]
+[2020.02.18-20.22.18:211][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/seans/OneDrive/Documents/GitHub/A-Ray-in-the-Dark/Ray_In_the_Dark/Saved/Config/Windows/Engine.ini]
+[2020.02.18-20.22.18:211][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.02.18-20.22.18:211][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.02.18-20.22.18:211][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.02.18-20.22.18:211][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.02.18-20.22.18:211][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.02.18-20.22.18:211][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.02.18-20.22.18:211][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.02.18-20.22.18:211][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.02.18-20.22.18:211][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.02.18-20.22.18:211][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.02.18-20.22.18:211][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.02.18-20.22.18:211][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.02.18-20.22.18:211][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.02.18-20.22.18:211][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2020.02.18-20.22.18:211][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/seans/OneDrive/Documents/GitHub/A-Ray-in-the-Dark/Ray_In_the_Dark/Saved/Config/Windows/Engine.ini]
+[2020.02.18-20.22.18:211][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.02.18-20.22.18:211][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.02.18-20.22.18:211][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.02.18-20.22.18:211][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.02.18-20.22.18:211][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.02.18-20.22.18:211][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.02.18-20.22.18:211][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2020.02.18-20.22.18:211][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.02.18-20.22.18:211][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.02.18-20.22.18:211][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.02.18-20.22.18:212][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.02.18-20.22.18:212][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.02.18-20.22.18:212][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.02.18-20.22.18:212][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/seans/OneDrive/Documents/GitHub/A-Ray-in-the-Dark/Ray_In_the_Dark/Saved/Config/Windows/Engine.ini]
+[2020.02.18-20.22.18:212][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/seans/OneDrive/Documents/GitHub/A-Ray-in-the-Dark/Ray_In_the_Dark/Saved/Config/Windows/Engine.ini]
+[2020.02.18-20.22.18:215][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/seans/OneDrive/Documents/GitHub/A-Ray-in-the-Dark/Ray_In_the_Dark/Saved/Config/Windows/Scalability.ini]
+[2020.02.18-20.22.18:215][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.02.18-20.22.18:215][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.02.18-20.22.18:215][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/seans/OneDrive/Documents/GitHub/A-Ray-in-the-Dark/Ray_In_the_Dark/Saved/Config/Windows/Scalability.ini]
+[2020.02.18-20.22.18:215][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.02.18-20.22.18:215][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/seans/OneDrive/Documents/GitHub/A-Ray-in-the-Dark/Ray_In_the_Dark/Saved/Config/Windows/Scalability.ini]
+[2020.02.18-20.22.18:215][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.02.18-20.22.18:215][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.02.18-20.22.18:215][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.02.18-20.22.18:215][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.02.18-20.22.18:215][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.02.18-20.22.18:215][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.02.18-20.22.18:215][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.02.18-20.22.18:215][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.02.18-20.22.18:215][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.02.18-20.22.18:215][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.02.18-20.22.18:215][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.02.18-20.22.18:215][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.02.18-20.22.18:215][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.02.18-20.22.18:215][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.02.18-20.22.18:215][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.02.18-20.22.18:215][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.02.18-20.22.18:215][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.02.18-20.22.18:215][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.02.18-20.22.18:215][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/seans/OneDrive/Documents/GitHub/A-Ray-in-the-Dark/Ray_In_the_Dark/Saved/Config/Windows/Scalability.ini]
+[2020.02.18-20.22.18:215][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.02.18-20.22.18:215][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.02.18-20.22.18:215][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.02.18-20.22.18:215][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.02.18-20.22.18:215][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.02.18-20.22.18:215][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.02.18-20.22.18:215][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.02.18-20.22.18:215][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.02.18-20.22.18:215][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.02.18-20.22.18:215][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.02.18-20.22.18:215][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.02.18-20.22.18:215][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.02.18-20.22.18:215][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.02.18-20.22.18:215][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.02.18-20.22.18:215][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.02.18-20.22.18:215][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.02.18-20.22.18:215][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.02.18-20.22.18:215][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.02.18-20.22.18:215][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.02.18-20.22.18:215][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.02.18-20.22.18:215][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.02.18-20.22.18:215][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.02.18-20.22.18:215][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.02.18-20.22.18:215][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.02.18-20.22.18:215][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.02.18-20.22.18:215][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.02.18-20.22.18:215][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.02.18-20.22.18:215][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.02.18-20.22.18:215][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.02.18-20.22.18:216][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.02.18-20.22.18:216][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/seans/OneDrive/Documents/GitHub/A-Ray-in-the-Dark/Ray_In_the_Dark/Saved/Config/Windows/Scalability.ini]
+[2020.02.18-20.22.18:216][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.02.18-20.22.18:216][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.02.18-20.22.18:216][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.02.18-20.22.18:216][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.02.18-20.22.18:216][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.02.18-20.22.18:216][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.02.18-20.22.18:216][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.02.18-20.22.18:216][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.02.18-20.22.18:216][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.02.18-20.22.18:216][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/seans/OneDrive/Documents/GitHub/A-Ray-in-the-Dark/Ray_In_the_Dark/Saved/Config/Windows/Scalability.ini]
+[2020.02.18-20.22.18:216][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.02.18-20.22.18:216][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.02.18-20.22.18:216][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.02.18-20.22.18:216][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.02.18-20.22.18:216][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.02.18-20.22.18:216][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.02.18-20.22.18:216][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.02.18-20.22.18:216][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.02.18-20.22.18:216][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.02.18-20.22.18:216][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.02.18-20.22.18:216][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.02.18-20.22.18:216][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.02.18-20.22.18:216][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.02.18-20.22.18:216][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.02.18-20.22.18:216][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.02.18-20.22.18:216][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.02.18-20.22.18:216][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.02.18-20.22.18:216][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.02.18-20.22.18:216][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.02.18-20.22.18:216][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.02.18-20.22.18:216][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.02.18-20.22.18:216][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.02.18-20.22.18:216][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.02.18-20.22.18:216][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.02.18-20.22.18:216][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.02.18-20.22.18:216][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.02.18-20.22.18:216][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/seans/OneDrive/Documents/GitHub/A-Ray-in-the-Dark/Ray_In_the_Dark/Saved/Config/Windows/Scalability.ini]
+[2020.02.18-20.22.18:216][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.02.18-20.22.18:216][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.02.18-20.22.18:216][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/seans/OneDrive/Documents/GitHub/A-Ray-in-the-Dark/Ray_In_the_Dark/Saved/Config/Windows/Scalability.ini]
+[2020.02.18-20.22.18:216][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.02.18-20.22.18:216][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.02.18-20.22.18:216][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.02.18-20.22.18:216][  0]LogInit: Selected Device Profile: [Windows]
+[2020.02.18-20.22.18:216][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.02.18-20.22.18:220][  0]LogHAL: Display: Platform has ~ 32 GB [34204483584 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.02.18-20.22.18:220][  0]LogInit: Going up to parent DeviceProfile []
+[2020.02.18-20.22.18:220][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/seans/OneDrive/Documents/GitHub/A-Ray-in-the-Dark/Ray_In_the_Dark/Saved/Config/Windows/Scalability.ini]
+[2020.02.18-20.22.18:220][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.02.18-20.22.18:220][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.02.18-20.22.18:220][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/seans/OneDrive/Documents/GitHub/A-Ray-in-the-Dark/Ray_In_the_Dark/Saved/Config/Windows/Scalability.ini]
+[2020.02.18-20.22.18:220][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.02.18-20.22.18:220][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/seans/OneDrive/Documents/GitHub/A-Ray-in-the-Dark/Ray_In_the_Dark/Saved/Config/Windows/Scalability.ini]
+[2020.02.18-20.22.18:220][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.02.18-20.22.18:220][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.02.18-20.22.18:220][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.02.18-20.22.18:220][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.02.18-20.22.18:220][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.02.18-20.22.18:220][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.02.18-20.22.18:220][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.02.18-20.22.18:220][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.02.18-20.22.18:220][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.02.18-20.22.18:220][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.02.18-20.22.18:220][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.02.18-20.22.18:220][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.02.18-20.22.18:220][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.02.18-20.22.18:220][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.02.18-20.22.18:220][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.02.18-20.22.18:220][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.02.18-20.22.18:220][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.02.18-20.22.18:220][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.02.18-20.22.18:220][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/seans/OneDrive/Documents/GitHub/A-Ray-in-the-Dark/Ray_In_the_Dark/Saved/Config/Windows/Scalability.ini]
+[2020.02.18-20.22.18:220][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.02.18-20.22.18:220][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.02.18-20.22.18:220][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.02.18-20.22.18:220][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.02.18-20.22.18:221][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.02.18-20.22.18:221][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.02.18-20.22.18:221][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.02.18-20.22.18:221][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.02.18-20.22.18:221][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.02.18-20.22.18:221][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.02.18-20.22.18:221][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.02.18-20.22.18:221][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.02.18-20.22.18:221][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.02.18-20.22.18:221][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.02.18-20.22.18:221][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.02.18-20.22.18:221][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.02.18-20.22.18:221][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.02.18-20.22.18:221][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.02.18-20.22.18:221][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.02.18-20.22.18:221][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.02.18-20.22.18:221][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.02.18-20.22.18:221][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.02.18-20.22.18:221][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.02.18-20.22.18:221][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.02.18-20.22.18:221][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.02.18-20.22.18:221][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.02.18-20.22.18:221][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.02.18-20.22.18:221][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.02.18-20.22.18:221][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.02.18-20.22.18:221][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.02.18-20.22.18:221][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/seans/OneDrive/Documents/GitHub/A-Ray-in-the-Dark/Ray_In_the_Dark/Saved/Config/Windows/Scalability.ini]
+[2020.02.18-20.22.18:221][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.02.18-20.22.18:221][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.02.18-20.22.18:221][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.02.18-20.22.18:221][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.02.18-20.22.18:221][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.02.18-20.22.18:221][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.02.18-20.22.18:221][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.02.18-20.22.18:221][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.02.18-20.22.18:221][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.02.18-20.22.18:221][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/seans/OneDrive/Documents/GitHub/A-Ray-in-the-Dark/Ray_In_the_Dark/Saved/Config/Windows/Scalability.ini]
+[2020.02.18-20.22.18:221][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.02.18-20.22.18:221][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.02.18-20.22.18:221][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.02.18-20.22.18:221][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.02.18-20.22.18:221][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.02.18-20.22.18:221][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.02.18-20.22.18:221][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.02.18-20.22.18:221][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.02.18-20.22.18:222][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.02.18-20.22.18:222][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.02.18-20.22.18:222][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.02.18-20.22.18:222][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.02.18-20.22.18:222][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.02.18-20.22.18:222][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.02.18-20.22.18:222][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.02.18-20.22.18:222][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.02.18-20.22.18:222][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.02.18-20.22.18:222][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.02.18-20.22.18:222][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.02.18-20.22.18:222][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.02.18-20.22.18:222][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.02.18-20.22.18:222][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.02.18-20.22.18:222][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.02.18-20.22.18:222][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.02.18-20.22.18:222][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.02.18-20.22.18:222][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.02.18-20.22.18:222][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/seans/OneDrive/Documents/GitHub/A-Ray-in-the-Dark/Ray_In_the_Dark/Saved/Config/Windows/Scalability.ini]
+[2020.02.18-20.22.18:222][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.02.18-20.22.18:222][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.02.18-20.22.18:222][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/seans/OneDrive/Documents/GitHub/A-Ray-in-the-Dark/Ray_In_the_Dark/Saved/Config/Windows/Scalability.ini]
+[2020.02.18-20.22.18:222][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.02.18-20.22.18:222][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.02.18-20.22.18:222][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.02.18-20.22.18:222][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.02.18-20.22.18:222][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.02.18-20.22.18:223][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.02.18-20.22.18:223][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/seans/OneDrive/Documents/GitHub/A-Ray-in-the-Dark/Ray_In_the_Dark/Saved/Config/Windows/Engine.ini]
+[2020.02.18-20.22.18:223][  0]LogInit: Computer: LAPTOP-KI2TII7S
+[2020.02.18-20.22.18:223][  0]LogInit: User: seans
+[2020.02.18-20.22.18:223][  0]LogInit: CPU Page size=4096, Cores=4
+[2020.02.18-20.22.18:223][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.02.18-20.22.18:223][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2020.02.18-20.22.18:223][  0]LogMemory: Platform Memory Stats for Windows
+[2020.02.18-20.22.18:223][  0]LogMemory: Process Physical Memory: 104.26 MB used, 104.26 MB peak
+[2020.02.18-20.22.18:223][  0]LogMemory: Process Virtual Memory: 100.54 MB used, 100.54 MB peak
+[2020.02.18-20.22.18:223][  0]LogMemory: Physical Memory: 14728.72 MB used,  17891.21 MB free, 32619.94 MB total
+[2020.02.18-20.22.18:223][  0]LogMemory: Virtual Memory: 5151.97 MB used,  134212576.00 MB free, 134217728.00 MB total
+[2020.02.18-20.22.18:228][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.02.18-20.22.18:252][  0]LogInit: Using OS detected language (en-US).
+[2020.02.18-20.22.18:252][  0]LogInit: Using OS detected locale (en-US).
+[2020.02.18-20.22.18:253][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2020.02.18-20.22.18:458][  0]LogInit: Setting process to per monitor DPI aware
+[2020.02.18-20.22.18:516][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.02.18-20.22.18:516][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.02.18-20.22.18:772][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.02.18-20.22.18:773][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2020.02.18-20.22.18:773][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2020.02.18-20.22.18:773][  0]LogD3D11RHI: D3D11 adapters:
+[2020.02.18-20.22.18:855][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1050' (Feature Level 11_0)
+[2020.02.18-20.22.18:855][  0]LogD3D11RHI:       4021/0/16309 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2020.02.18-20.22.18:890][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2020.02.18-20.22.18:890][  0]LogD3D11RHI:       128/0/16309 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2020.02.18-20.22.18:893][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.02.18-20.22.18:893][  0]LogD3D11RHI:       0/0/16309 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.02.18-20.22.18:893][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.02.18-20.22.18:947][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.02.18-20.22.18:947][  0]LogD3D11RHI:     GPU DeviceId: 0x1c8d (for the marketing name, search the web for "GPU Device Id")
+[2020.02.18-20.22.18:947][  0]LogWindows: EnumDisplayDevices:
+[2020.02.18-20.22.18:947][  0]LogWindows:    0. 'Intel(R) HD Graphics 630' (P:1 D:1)
+[2020.02.18-20.22.18:947][  0]LogWindows:    1. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2020.02.18-20.22.18:948][  0]LogWindows:    2. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2020.02.18-20.22.18:948][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2020.02.18-20.22.18:948][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1050
+[2020.02.18-20.22.18:948][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2020.02.18-20.22.18:948][  0]LogD3D11RHI:      Driver Date: Unknown
+[2020.02.18-20.22.18:948][  0]LogRHI: Texture pool is 2814 MB (70% of 4021 MB)
+[2020.02.18-20.22.19:006][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2020.02.18-20.22.19:006][  0]LogD3D11RHI: Async texture creation enabled
+[2020.02.18-20.22.19:020][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.02.18-20.22.19:534][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2020.02.18-20.22.19:569][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2020.02.18-20.22.19:569][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2020.02.18-20.22.19:569][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATC'
+[2020.02.18-20.22.19:569][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2020.02.18-20.22.19:569][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1'
+[2020.02.18-20.22.19:569][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1a'
+[2020.02.18-20.22.19:569][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2020.02.18-20.22.19:569][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTC'
+[2020.02.18-20.22.19:569][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2020.02.18-20.22.19:569][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2020.02.18-20.22.19:569][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATCClient'
+[2020.02.18-20.22.19:569][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2020.02.18-20.22.19:569][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1Client'
+[2020.02.18-20.22.19:569][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1aClient'
+[2020.02.18-20.22.19:569][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2020.02.18-20.22.19:569][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTCClient'
+[2020.02.18-20.22.19:569][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2020.02.18-20.22.19:569][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2020.02.18-20.22.19:588][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2020.02.18-20.22.19:588][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2020.02.18-20.22.19:597][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2020.02.18-20.22.19:606][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2020.02.18-20.22.19:613][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2020.02.18-20.22.19:620][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2020.02.18-20.22.19:628][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2020.02.18-20.22.19:636][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2020.02.18-20.22.19:662][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2020.02.18-20.22.19:662][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2020.02.18-20.22.19:678][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2020.02.18-20.22.19:678][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2020.02.18-20.22.19:686][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2020.02.18-20.22.19:695][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2020.02.18-20.22.19:703][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2020.02.18-20.22.19:710][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2020.02.18-20.22.19:710][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.02.18-20.22.19:714][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.02.18-20.22.19:743][  0]LogShaderCompilers: Guid format shader working directory is -43 characters bigger than the processId version (../../../../../../Users/seans/OneDrive/Documents/GitHub/A-Ray-in-the-Dark/Ray_In_the_Dark/Intermediate/Shaders/WorkingDirectory/1272/).
+[2020.02.18-20.22.19:743][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/seans/AppData/Local/Temp/UnrealShaderWorkingDir/FA2D52974DC3A18334AD4AB9B32F28C2/'.
+[2020.02.18-20.22.19:743][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.02.18-20.22.19:743][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.02.18-20.22.19:743][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.02.18-20.22.20:605][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.02.18-20.22.20:677][  0]LogDerivedDataCache: Loaded boot cache 0.07s 79MB C:/Users/seans/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.02.18-20.22.20:677][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/seans/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc
+[2020.02.18-20.22.20:677][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/seans/OneDrive/Documents/GitHub/A-Ray-in-the-Dark/Ray_In_the_Dark/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.02.18-20.22.20:677][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.02.18-20.22.20:678][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/seans/OneDrive/Documents/GitHub/A-Ray-in-the-Dark/Ray_In_the_Dark/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.02.18-20.22.20:678][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.02.18-20.22.20:689][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.02.18-20.22.20:689][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.02.18-20.22.20:690][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.02.18-20.22.20:691][  0]LogDerivedDataCache: Using Local data cache path C:/Users/seans/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.02.18-20.22.20:691][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.02.18-20.22.20:691][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.02.18-20.22.20:724][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.02.18-20.22.20:726][  0]LogSlate: Using FreeType 2.10.0
+[2020.02.18-20.22.20:727][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.02.18-20.22.20:791][  0]LogAssetRegistry: FAssetRegistry took 0.0039 seconds to start up
+[2020.02.18-20.22.21:176][  0]LogInit: Selected Device Profile: [Windows]
+[2020.02.18-20.22.21:392][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.02.18-20.22.21:392][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.02.18-20.22.21:392][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.02.18-20.22.21:392][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.02.18-20.22.21:392][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.02.18-20.22.21:404][  0]LogNetVersion: Ray_In_the_Dark 1.0.0, NetCL: 10570792, EngineNetVer: 13, GameNetVer: 0 (Checksum: 4224773759)
+[2020.02.18-20.22.22:736][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.050650 seconds
+[2020.02.18-20.22.22:749][  0]LogUObjectArray: 46750 objects as part of root set at end of initial load.
+[2020.02.18-20.22.22:749][  0]LogUObjectAllocator: 8137160 out of 0 bytes used by permanent object pool.
+[2020.02.18-20.22.22:749][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.02.18-20.22.23:165][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.02.18-20.22.23:205][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.02.18-20.22.23:272][  0]SourceControl: Source control is disabled
+[2020.02.18-20.22.23:272][  0]SourceControl: Source control is disabled
+[2020.02.18-20.22.23:273][  0]SourceControl: Source control is disabled
+[2020.02.18-20.22.23:274][  0]SourceControl: Source control is disabled
+[2020.02.18-20.22.23:275][  0]SourceControl: Source control is disabled
+[2020.02.18-20.22.23:366][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.02.18-20.22.23:377][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.02.18-20.22.23:377][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.02.18-20.22.23:467][  0]LogOcInput: OculusInput pre-init called
+[2020.02.18-20.22.23:474][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2020.02.18-20.22.23:474][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2020.02.18-20.22.23:549][  0]LogEngine: Initializing Engine...
+[2020.02.18-20.22.23:550][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.02.18-20.22.23:552][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.02.18-20.22.23:929][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.02.18-20.22.23:935][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.02.18-20.22.24:006][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.02.18-20.22.24:006][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.02.18-20.22.24:006][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.02.18-20.22.24:006][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.02.18-20.22.24:006][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.02.18-20.22.24:006][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.02.18-20.22.24:006][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.02.18-20.22.24:006][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.02.18-20.22.24:006][  0]LogAudio: Display: Using built-in audio occlusion.
+[2020.02.18-20.22.24:006][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2020.02.18-20.22.24:033][  0]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.02.18-20.22.24:033][  0]LogAudioMixer: Display: Name: Speakers / Headphones (Realtek Audio)
+[2020.02.18-20.22.24:033][  0]LogAudioMixer: Display: Is Default: Yes
+[2020.02.18-20.22.24:033][  0]LogAudioMixer: Display: Sample Rate: 48000
+[2020.02.18-20.22.24:033][  0]LogAudioMixer: Display: Channel Count Used: 2
+[2020.02.18-20.22.24:033][  0]LogAudioMixer: Display: Device Channel Count: 2
+[2020.02.18-20.22.24:033][  0]LogAudioMixer: Display: Channel Order:
+[2020.02.18-20.22.24:033][  0]LogAudioMixer: Display: 0: FrontLeft
+[2020.02.18-20.22.24:033][  0]LogAudioMixer: Display: 1: FrontRight
+[2020.02.18-20.22.24:531][  0]LogAudioMixer: Display: Using Audio Device Speakers / Headphones (Realtek Audio)
+[2020.02.18-20.22.24:537][  0]LogInit: FAudioDevice initialized.
+[2020.02.18-20.22.24:537][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.02.18-20.22.24:703][  0]LogDerivedDataCache: Saved boot cache 0.17s 79MB C:/Users/seans/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.02.18-20.22.24:708][  0]LogInit: Texture streaming: Enabled
+[2020.02.18-20.22.24:717][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.02.18-20.22.24:717][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.02.18-20.22.24:718][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.02.18-20.22.24:739][  0]LogInit: Transaction tracking system initialized
+[2020.02.18-20.22.24:749][  0]BlueprintLog: New page: Editor Load
+[2020.02.18-20.22.24:900][  0]LocalizationService: Localization service is disabled
+[2020.02.18-20.22.25:235][  0]LogFileCache: Scanning file cache for directory 'C:/Users/seans/OneDrive/Documents/GitHub/A-Ray-in-the-Dark/Ray_In_the_Dark/Content/' took 0.00s
+[2020.02.18-20.22.25:235][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.02.18-20.22.25:235][  0]LogCook: Display: Mobile HDR setting 1
+[2020.02.18-20.22.25:956][  0]SourceControl: Source control is disabled
+[2020.02.18-20.22.25:956][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.02.18-20.22.25:957][  0]LightingResults: New page: Lighting Build
+[2020.02.18-20.22.25:958][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.02.18-20.22.25:958][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.18-20.22.25:958][  0]MapCheck: New page: Map Check
+[2020.02.18-20.22.25:958][  0]LightingResults: New page: Lighting Build
+[2020.02.18-20.22.25:989][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.71ms
+[2020.02.18-20.22.26:098][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2020.02.18-20.22.26:103][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.02.18-20.22.26:136][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2020.02.18-20.22.26:136][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.02.18-20.22.26:137][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.186ms to complete.
+[2020.02.18-20.22.26:137][  0]LogFileHelpers: Loading map 'Template_Default' took 0.180
+[2020.02.18-20.22.26:347][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.18-20.22.26:355][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.18-20.22.26:363][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.18-20.22.26:371][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.18-20.22.26:387][  0]LogCollectionManager: Loaded 0 collections in 0.001079 seconds
+[2020.02.18-20.22.26:424][  0]LogFileCache: Scanning file cache for directory 'C:/Users/seans/OneDrive/Documents/GitHub/A-Ray-in-the-Dark/Ray_In_the_Dark/Saved/Collections/' took 0.00s
+[2020.02.18-20.22.26:424][  0]LogFileCache: Scanning file cache for directory 'C:/Users/seans/OneDrive/Documents/GitHub/A-Ray-in-the-Dark/Ray_In_the_Dark/Content/Developers/seans/Collections/' took 0.00s
+[2020.02.18-20.22.26:424][  0]LogFileCache: Scanning file cache for directory 'C:/Users/seans/OneDrive/Documents/GitHub/A-Ray-in-the-Dark/Ray_In_the_Dark/Content/Collections/' took 0.00s
+[2020.02.18-20.22.26:424][  0]LogContentBrowser: Native class hierarchy populated in 0.0107 seconds. Added 3016 classes and 719 folders.
+[2020.02.18-20.22.26:432][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2020.02.18-20.22.26:483][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2020.02.18-20.22.26:494][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 2 classes and 3 folders.
+[2020.02.18-20.22.26:605][  0]LogSlate: Took 0.000199 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.02.18-20.22.26:608][  0]LogSlate: Took 0.000233 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.02.18-20.22.26:625][  0]LogSlate: Took 0.007600 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.02.18-20.22.26:776][  0]LogRenderer: Reallocating scene render targets to support 832x392 Format 10 NumSamples 1 (Frame:1).
+[2020.02.18-20.22.27:021][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2020.02.18-20.22.27:021][  0]LogLoad: (Engine Initialization) Total time: 10.36 seconds
+[2020.02.18-20.22.27:021][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.02.18-20.22.27:083][  0]LogAssetRegistry: Asset discovery search completed in 6.2943 seconds
+[2020.02.18-20.22.27:086][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000008 seconds (updated 0 objects)
+[2020.02.18-20.22.27:089][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.02.18-20.23.17:493][214]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.02.18-20.24.00:870][350]LogSlate: Took 0.000682 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.02.18-20.24.00:904][350]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/MainMenu.MainMenu
+[2020.02.18-20.24.00:952][350]LogUObjectHash: Compacting FUObjectHashTables data took   2.73ms
+[2020.02.18-20.24.07:259][350]LogSlate: Window 'Save Content' being destroyed
+[2020.02.18-20.24.07:332][350]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2020.02.18-20.24.07:354][350]LogSavePackage: Moving '../../../../../../Users/seans/OneDrive/Documents/GitHub/A-Ray-in-the-Dark/Ray_In_the_Dark/Saved/MainMenu582E50FA4B2627149E197484D078616B.tmp' to '../../../../../../Users/seans/OneDrive/Documents/GitHub/A-Ray-in-the-Dark/Ray_In_the_Dark/Content/Maps/MainMenu.umap'
+[2020.02.18-20.24.07:365][350]LogFileHelpers: Saving map 'MainMenu' took 0.078
+[2020.02.18-20.24.07:368][350]Cmd: MAP LOAD FILE="../../../../../../Users/seans/OneDrive/Documents/GitHub/A-Ray-in-the-Dark/Ray_In_the_Dark/Content/Maps/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.02.18-20.24.07:369][350]LightingResults: New page: Lighting Build
+[2020.02.18-20.24.07:370][350]LoadErrors: New page: Loading map: MainMenu.umap
+[2020.02.18-20.24.07:372][350]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2020.02.18-20.24.07:372][350]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.18-20.24.07:372][350]MapCheck: New page: Map Check
+[2020.02.18-20.24.07:372][350]LightingResults: New page: Lighting Build
+[2020.02.18-20.24.07:417][350]LogUObjectHash: Compacting FUObjectHashTables data took   3.10ms
+[2020.02.18-20.24.07:420][350]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.02.18-20.24.07:421][350]LogAIModule: Creating AISystem for world MainMenu
+[2020.02.18-20.24.07:463][350]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2020.02.18-20.24.07:496][350]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.02.18-20.24.07:508][350]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 11.851ms to complete.
+[2020.02.18-20.24.07:508][350]LogFileHelpers: Loading map 'MainMenu' took 0.143
+[2020.02.18-20.24.07:548][350]AssetCheck: New page: Asset Save: MainMenu
+[2020.02.18-20.24.07:548][350]LogContentValidation: Display: Validating World /Game/Maps/MainMenu.MainMenu
+[2020.02.18-20.24.22:225][209]LogEditorViewport: Clicking Background
+[2020.02.18-20.25.00:455][551]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{919b473a-40f4-4646-8a87-a99a9216d582}.
+[2020.02.18-20.25.00:456][551]LogTemp: Resetting audio stream to device id 
+[2020.02.18-20.25.00:649][551]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.02.18-20.25.00:649][551]LogAudioMixer: Display: Name: Headphones (ED117)
+[2020.02.18-20.25.00:649][551]LogAudioMixer: Display: Is Default: Yes
+[2020.02.18-20.25.00:649][551]LogAudioMixer: Display: Sample Rate: 48000
+[2020.02.18-20.25.00:649][551]LogAudioMixer: Display: Channel Count Used: 2
+[2020.02.18-20.25.00:649][551]LogAudioMixer: Display: Device Channel Count: 2
+[2020.02.18-20.25.00:649][551]LogAudioMixer: Display: Channel Order:
+[2020.02.18-20.25.00:649][551]LogAudioMixer: Display: 0: FrontLeft
+[2020.02.18-20.25.00:649][551]LogAudioMixer: Display: 1: FrontRight
+[2020.02.18-20.28.37:340][ 40]LogActorFactory: Actor Factory created Cube
+[2020.02.18-20.28.37:754][ 62]LogActorFactory: Actor Factory created Cube
+[2020.02.18-20.29.03:217][560]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (DirectionalLight)
+[2020.02.18-20.29.12:824][114]MapCheck: New page: Map Check
+[2020.02.18-20.29.12:861][114]Cmd: MAP REBUILD ALLVISIBLE
+[2020.02.18-20.29.12:862][114]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2020.02.18-20.29.12:936][114]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=false
+[2020.02.18-20.29.12:979][114]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2020.02.18-20.29.12:997][114]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.02.18-20.29.13:429][114]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2020.02.18-20.29.13:429][114]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2020.02.18-20.29.13:429][114]TextureStreamingBuild: Display: Compiling optional shaders took 0.447 seconds.
+[2020.02.18-20.29.13:430][114]LogLevel: Display: Export Material TexCoord Scales took 0.001 seconds.
+[2020.02.18-20.29.13:434][114]TextureStreamingBuild: Display: Build Texture Streaming took 0.004 seconds.
+[2020.02.18-20.29.13:458][114]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2020.02.18-20.29.13:465][114]LightingResults: New page: Lighting Build - Feb 18, 2020, 10:29:13 AM
+[2020.02.18-20.29.13:521][114]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2020.02.18-20.29.13:686][114]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2020.02.18-20.29.13:701][114]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2020.02.18-20.29.14:219][114]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2020.02.18-20.29.14:219][114]LogSwarmInterface: [TryOpenConnection] Local Process ID is 1272
+[2020.02.18-20.29.16:711][114]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2020.02.18-20.29.16:727][114]LogStaticLightingSystem: Warning: Failed to build lighting!!! Lighting build canceled.
+[2020.02.18-20.29.17:722][114]LogEditorBuildUtils: Build time 0:04
+[2020.02.18-20.29.21:631][308]MapCheck: New page: Map Check
+[2020.02.18-20.29.21:661][308]LightingResults: New page: Lighting Build - Feb 18, 2020, 10:29:21 AM
+[2020.02.18-20.29.21:676][308]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2020.02.18-20.29.21:681][308]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2020.02.18-20.29.21:682][308]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2020.02.18-20.29.21:682][308]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2020.02.18-20.29.21:682][308]LogSwarmInterface: [TryOpenConnection] Local Process ID is 1272
+[2020.02.18-20.29.23:728][308]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2020.02.18-20.29.23:728][308]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2020.02.18-20.29.23:728][308]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2020.02.18-20.29.23:729][308]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2020.02.18-20.29.23:729][308]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2020.02.18-20.29.23:729][308]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2020.02.18-20.29.23:943][308]LogEditorBuildUtils: Build time 0:02
+[2020.02.18-20.29.23:975][308]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer BasicShapeMaterial, compiling. 
+[2020.02.18-20.29.24:011][308]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2020.02.18-20.29.24:011][308]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2020.02.18-20.29.24:011][308]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer BasicShapeMaterial, compiling. 
+[2020.02.18-20.29.24:028][308]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2020.02.18-20.29.24:028][308]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2020.02.18-20.29.24:142][309]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer WorldGridMaterial, compiling. Is special engine material.
+[2020.02.18-20.29.24:202][309]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer WorldGridMaterial, compiling. Is special engine material.
+[2020.02.18-20.29.27:893][311]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 4
+[2020.02.18-20.29.27:893][311]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2020.02.18-20.29.27:893][311]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2020.02.18-20.29.28:375][316]LogUObjectHash: Compacting FUObjectHashTables data took   5.25ms
+[2020.02.18-20.29.31:595][317]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2020.02.18-20.29.34:290][405]Job is a success!
+[2020.02.18-20.29.34:511][406]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.017s
+[2020.02.18-20.29.34:511][406]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2020.02.18-20.29.34:511][406]LogVolumetricLightmapImport:      BrickData (all levels) 0.0Mb
+[2020.02.18-20.29.34:511][406]LogVolumetricLightmapImport:      Bricks at depth
+[2020.02.18-20.29.34:511][406]LogVolumetricLightmapImport:          0: 16.7% covering 100.0% of volume
+[2020.02.18-20.29.34:511][406]LogVolumetricLightmapImport:          1: 16.7% covering 1.6% of volume
+[2020.02.18-20.29.34:512][406]LogVolumetricLightmapImport:          2: 66.7% covering 0.1% of volume
+[2020.02.18-20.29.34:512][406]LogVolumetricLightmapImport:      Bricks in each level
+[2020.02.18-20.29.34:512][406]LogVolumetricLightmapImport:          MainMenu 			 6 bricks 	 100.0% (Persistent Level)
+[2020.02.18-20.29.34:560][406]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 128X128)
+[2020.02.18-20.29.34:560][406]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 128X128)
+[2020.02.18-20.29.34:560][406]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (G8, 64X64)
+[2020.02.18-20.29.34:560][406]Lightmass on LAPTOP-KI2TII7S: 1.60 sec total, 442 ms importing, 87 ms setup, 74 ms photons, 798 ms processing, 0 ms extra exporting [1/1 mappings]. Threads: 5.58 sec total, 105 ms processing.
+[2020.02.18-20.29.34:602][406]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2020.02.18-20.29.34:672][406]LogStaticLightingSystem: Illumination: 12.8 sec (5 ms encoding lightmaps, 4 ms encoding shadowmaps)
+[2020.02.18-20.29.34:672][406]LogStaticLightingSystem: Lightmap texture memory:  0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 2 textures
+[2020.02.18-20.29.34:672][406]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 1 textures
+[2020.02.18-20.29.34:746][406]DumpUnbuiltLightIteractions
+[2020.02.18-20.29.34:746][406]Lights with unbuilt interactions: 0
+[2020.02.18-20.29.34:746][406]
+[2020.02.18-20.29.34:746][406]Primitives with unbuilt interactions: 0
+[2020.02.18-20.29.34:874][407]Cmd: MAP CHECK NOTIFYRESULTS
+[2020.02.18-20.29.34:874][407]MapCheck: New page: MainMenu - Feb 18, 2020, 10:29:34 AM
+[2020.02.18-20.29.34:878][407]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 4.293ms to complete.
+[2020.02.18-20.29.37:712][571]LogEditorViewport: Clicking Background
+[2020.02.18-20.29.38:649][626]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (DirectionalLight)
+[2020.02.18-20.30.40:346][486]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2020.02.18-20.30.43:329][486]LogSlate: Window 'Delete Assets' being destroyed
+[2020.02.18-20.30.43:740][486]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Maps/MainMenu_BuiltData.MainMenu_BuiltData
+[2020.02.18-20.30.44:681][486]LogUObjectHash: Compacting FUObjectHashTables data took   4.55ms
+[2020.02.18-20.30.46:473][583]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2020.02.18-20.30.47:902][664]Cmd: DELETE
+[2020.02.18-20.30.47:902][664]Cmd: ACTOR DELETE
+[2020.02.18-20.30.47:917][664]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.02.18-20.30.47:950][664]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2020.02.18-20.30.47:952][664]LogEditorActor: Deleted 1 Actors (0.042 secs)
+[2020.02.18-20.30.49:035][729]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (DirectionalLight)
+[2020.02.18-20.30.49:781][771]Cmd: DELETE
+[2020.02.18-20.30.49:781][771]Cmd: ACTOR DELETE
+[2020.02.18-20.30.49:783][771]LogEditorActor: Deleted Actor: DirectionalLight
+[2020.02.18-20.30.49:823][771]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2020.02.18-20.30.49:823][771]LogEditorActor: Deleted 1 Actors (0.042 secs)
+[2020.02.18-20.31.05:246][673]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/Level1.Level1
+[2020.02.18-20.31.05:283][673]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2020.02.18-20.31.09:867][673]LogSlate: Window 'Save Content' being destroyed
+[2020.02.18-20.31.09:960][673]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2020.02.18-20.31.09:979][673]LogSavePackage: Moving '../../../../../../Users/seans/OneDrive/Documents/GitHub/A-Ray-in-the-Dark/Ray_In_the_Dark/Saved/Level1DA45BA484C25A0A76F52DC8BD60311FA.tmp' to '../../../../../../Users/seans/OneDrive/Documents/GitHub/A-Ray-in-the-Dark/Ray_In_the_Dark/Content/Maps/Level1.umap'
+[2020.02.18-20.31.09:987][673]LogFileHelpers: Saving map 'Level1' took 0.088
+[2020.02.18-20.31.10:052][673]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2020.02.18-20.31.10:075][673]LogSavePackage: Moving '../../../../../../Users/seans/OneDrive/Documents/GitHub/A-Ray-in-the-Dark/Ray_In_the_Dark/Saved/MainMenu4303C7E340A1674B8ECF35AA5E4F2FCB.tmp' to '../../../../../../Users/seans/OneDrive/Documents/GitHub/A-Ray-in-the-Dark/Ray_In_the_Dark/Content/Maps/MainMenu.umap'
+[2020.02.18-20.31.10:168][673]LogFileHelpers: Saving map 'MainMenu' took 0.181
+[2020.02.18-20.31.10:170][673]Cmd: MAP LOAD FILE="../../../../../../Users/seans/OneDrive/Documents/GitHub/A-Ray-in-the-Dark/Ray_In_the_Dark/Content/Maps/Level1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.02.18-20.31.10:170][673]LightingResults: New page: Lighting Build
+[2020.02.18-20.31.10:171][673]LoadErrors: New page: Loading map: Level1.umap
+[2020.02.18-20.31.10:172][673]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2020.02.18-20.31.10:172][673]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.18-20.31.10:172][673]MapCheck: New page: Map Check
+[2020.02.18-20.31.10:172][673]LightingResults: New page: Lighting Build
+[2020.02.18-20.31.10:235][673]LogUObjectHash: Compacting FUObjectHashTables data took   3.39ms
+[2020.02.18-20.31.10:382][673]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.02.18-20.31.10:382][673]LogAIModule: Creating AISystem for world Level1
+[2020.02.18-20.31.10:449][673]LogUObjectHash: Compacting FUObjectHashTables data took   3.01ms
+[2020.02.18-20.31.10:487][673]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.02.18-20.31.10:488][673]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.27ms to complete.
+[2020.02.18-20.31.10:488][673]LogFileHelpers: Loading map 'Level1' took 0.319
+[2020.02.18-20.31.10:563][673]AssetCheck: New page: Asset Save: multiple assets
+[2020.02.18-20.31.10:563][673]LogContentValidation: Display: Validating World /Game/Maps/Level1.Level1
+[2020.02.18-20.31.10:563][673]LogContentValidation: Display: Validating World /Game/Maps/MainMenu.MainMenu
+[2020.02.18-20.31.10:568][673]LogAIModule: Creating AISystem for world MainMenu
+[2020.02.18-20.31.15:762][975]LogActorFactory: Actor Factory created Plane
+[2020.02.18-20.31.16:529][ 20]LogActorFactory: Actor Factory created Plane
+[2020.02.18-20.31.35:718][137]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.02.18-20.32.08:247][ 16]Cmd: TRANSACTION UNDO
+[2020.02.18-20.32.08:247][ 16]LogEditorTransaction: Undo Reset Location
+[2020.02.18-20.33.50:394][737]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.02.18-20.33.57:786][759]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.02.18-20.33.58:705][761]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.02.18-20.33.59:381][762]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.02.18-20.33.59:709][763]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.02.18-20.34.00:010][764]LogRendererCore: Warning: Query 'SlateUI' not ready.
+[2020.02.18-20.39.43:992][997]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.02.18-20.41.18:022][825]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2020.02.18-20.41.18:036][825]LogSavePackage: Moving '../../../../../../Users/seans/OneDrive/Documents/GitHub/A-Ray-in-the-Dark/Ray_In_the_Dark/Saved/MainMenu5E6AA6B84A538C7A18F886A6D88A6958.tmp' to '../../../../../../Users/seans/OneDrive/Documents/GitHub/A-Ray-in-the-Dark/Ray_In_the_Dark/Content/Maps/MainMenu/MainMenu.umap'
+[2020.02.18-20.41.18:044][825]LogFileHelpers: Saving map 'MainMenu' took 0.057
+[2020.02.18-20.41.18:216][825]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2020.02.18-20.41.18:252][825]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2020.02.18-20.41.18:282][825]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2020.02.18-20.41.18:301][825]AssetCheck: New page: Asset Save: MainMenu
+[2020.02.18-20.41.18:301][825]LogContentValidation: Display: Validating World /Game/Maps/MainMenu/MainMenu.MainMenu
+[2020.02.18-20.41.35:655][835]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/MainMenu/MainMenu.MainMenu
+[2020.02.18-20.41.35:685][835]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2020.02.18-20.41.39:421][835]LogSlate: Window 'Save Content' being destroyed
+[2020.02.18-20.41.53:116][633]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2020.02.18-20.41.53:118][633]LogMetaData: Removing '/Game/Maps/MainMenu/MainMenuUI.SKEL_MainMenuUI_C' ref from Metadata '/Game/Maps/MainMenu/NewWidgetBlueprint.PackageMetaData'
+[2020.02.18-20.41.53:118][633]LogMetaData: Removing '/Game/Maps/MainMenu/MainMenuUI.MainMenuUI_C' ref from Metadata '/Game/Maps/MainMenu/NewWidgetBlueprint.PackageMetaData'
+[2020.02.18-20.41.53:118][633]LogMetaData: Removing '/Game/Maps/MainMenu/MainMenuUI.MainMenuUI:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Maps/MainMenu/NewWidgetBlueprint.PackageMetaData'
+[2020.02.18-20.41.53:118][633]LogMetaData: Removing '/Game/Maps/MainMenu/MainMenuUI.MainMenuUI:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Maps/MainMenu/NewWidgetBlueprint.PackageMetaData'
+[2020.02.18-20.41.53:118][633]LogMetaData: Removing '/Game/Maps/MainMenu/MainMenuUI.MainMenuUI:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Maps/MainMenu/NewWidgetBlueprint.PackageMetaData'
+[2020.02.18-20.41.53:176][633]LogSavePackage: Moving '../../../../../../Users/seans/OneDrive/Documents/GitHub/A-Ray-in-the-Dark/Ray_In_the_Dark/Saved/MainMenuUIA7EF355947CB2D4374EC5693C1C0B35E.tmp' to '../../../../../../Users/seans/OneDrive/Documents/GitHub/A-Ray-in-the-Dark/Ray_In_the_Dark/Content/Maps/MainMenu/MainMenuUI.uasset'
+[2020.02.18-20.41.53:364][633]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2020.02.18-20.41.53:404][633]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2020.02.18-20.41.53:430][633]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2020.02.18-20.41.53:450][633]AssetCheck: New page: Asset Save: MainMenuUI
+[2020.02.18-20.41.53:450][633]LogContentValidation: Display: Validating WidgetBlueprint /Game/Maps/MainMenu/MainMenuUI.MainMenuUI
+[2020.02.18-20.41.54:988][718]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/MainMenu/MainMenu.MainMenu
+[2020.02.18-20.41.55:017][718]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2020.02.18-20.41.56:805][718]LogSlate: Window 'Save Content' being destroyed
+[2020.02.18-20.41.56:861][718]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2020.02.18-20.41.56:879][718]LogSavePackage: Moving '../../../../../../Users/seans/OneDrive/Documents/GitHub/A-Ray-in-the-Dark/Ray_In_the_Dark/Saved/Level1453B1CA347B387C422A1C78B69DA7811.tmp' to '../../../../../../Users/seans/OneDrive/Documents/GitHub/A-Ray-in-the-Dark/Ray_In_the_Dark/Content/Maps/Level1.umap'
+[2020.02.18-20.41.56:911][718]LogFileHelpers: Saving map 'Level1' took 0.083
+[2020.02.18-20.41.56:914][718]Cmd: MAP LOAD FILE="../../../../../../Users/seans/OneDrive/Documents/GitHub/A-Ray-in-the-Dark/Ray_In_the_Dark/Content/Maps/MainMenu/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.02.18-20.41.56:914][718]LightingResults: New page: Lighting Build
+[2020.02.18-20.41.56:915][718]LoadErrors: New page: Loading map: MainMenu.umap
+[2020.02.18-20.41.56:916][718]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2020.02.18-20.41.56:916][718]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.18-20.41.56:916][718]MapCheck: New page: Map Check
+[2020.02.18-20.41.56:916][718]LightingResults: New page: Lighting Build
+[2020.02.18-20.41.56:946][718]LogUObjectHash: Compacting FUObjectHashTables data took   3.15ms
+[2020.02.18-20.41.57:065][718]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.02.18-20.41.57:098][718]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2020.02.18-20.41.57:119][718]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.02.18-20.41.57:119][718]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.122ms to complete.
+[2020.02.18-20.41.57:119][718]LogFileHelpers: Loading map 'MainMenu' took 0.208
+[2020.02.18-20.41.57:154][718]AssetCheck: New page: Asset Save: Level1
+[2020.02.18-20.41.57:154][718]LogContentValidation: Display: Validating World /Game/Maps/Level1.Level1
+[2020.02.18-20.41.57:160][718]LogAIModule: Creating AISystem for world Level1
+[2020.02.18-20.42.05:216][181]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Maps/MainMenu/MainMenuUI.MainMenuUI
+[2020.02.18-20.42.05:516][181]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0008 seconds. Added 121 classes and 0 folders.
+[2020.02.18-20.42.06:976][181]LogSlate: Took 0.000174 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.02.18-20.45.16:363][ 12]LogEditorTransaction: Undo Move Widget
+[2020.02.18-20.45.16:704][ 19]LogEditorTransaction: Undo Resize Widget
+[2020.02.18-20.45.16:997][ 28]LogEditorTransaction: Undo Resize Widget
+[2020.02.18-20.45.28:505][641]LogEditorTransaction: Undo Resize Widget
+[2020.02.18-20.46.12:229][324]LogEditorTransaction: Undo Resize Widget
+[2020.02.18-20.46.12:528][329]LogEditorTransaction: Undo Resize Widget
+[2020.02.18-20.46.12:951][341]LogEditorTransaction: Undo Resize Widget
+[2020.02.18-20.46.14:238][392]LogEditorTransaction: Undo Move Anchor
+[2020.02.18-20.46.14:949][419]LogEditorTransaction: Undo Move Anchor
+[2020.02.18-20.46.15:419][438]LogEditorTransaction: Undo Move Anchor
+[2020.02.18-20.46.15:876][457]LogEditorTransaction: Undo Move Anchor
+[2020.02.18-20.46.16:806][494]LogEditorTransaction: Undo Add Widget
+[2020.02.18-20.47.31:519][526]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.02.18-20.47.53:699][509]LogEditorTransaction: Undo Resize Widget
+[2020.02.18-20.47.54:321][523]LogEditorTransaction: Undo Resize Widget
+[2020.02.18-20.50.14:649][ 96]LogSlate: Window 'Color Picker' being destroyed
+[2020.02.18-20.52.07:509][ 52]LogUObjectHash: Compacting FUObjectHashTables data took   7.55ms
+[2020.02.18-20.52.07:511][ 52]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/MainMenu/MainMenu' took 0.116
+[2020.02.18-20.52.07:512][ 52]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Maps/MainMenu/MainMenuUI] ([1] browsable assets)...
+[2020.02.18-20.52.07:513][ 52]OBJ SavePackage: Finished generating thumbnails for package [/Game/Maps/MainMenu/MainMenuUI]
+[2020.02.18-20.52.07:538][ 52]LogSavePackage: Moving '../../../../../../Users/seans/OneDrive/Documents/GitHub/A-Ray-in-the-Dark/Ray_In_the_Dark/Saved/MainMenuUI_Auto11FF96208463EFA221E3A838F0F866B85.tmp' to '../../../../../../Users/seans/OneDrive/Documents/GitHub/A-Ray-in-the-Dark/Ray_In_the_Dark/Saved/Autosaves/Game/Maps/MainMenu/MainMenuUI_Auto1.uasset'
+[2020.02.18-20.52.07:540][ 52]LogFileHelpers: Auto-saving content packages took 0.029
+[2020.02.18-20.52.09:697][116]LogSlate: Window 'Color Picker' being destroyed
+[2020.02.18-20.52.15:801][333]LogSlate: Window 'Color Picker' being destroyed
+[2020.02.18-20.53.30:596][375]LogD3D11RHI: Error: Result failed 
+ at D:/Build/++UE4/Sync/Engine/Source/Runtime/Windows/D3D11RHI/Private/D3D11Query.cpp:348 
+ with error DXGI_ERROR_DEVICE_REMOVED DXGI_ERROR_DEVICE_HUNG
+[2020.02.18-20.53.30:596][375]LogD3D11RHI: [Aftermath] GDynamicRHI=00000248BF0800C0, GDX11NVAfterMathEnabled=0, Result=0xFFFFFFFF, bDeviceActive=0
+[2020.02.18-20.53.30:596][375]LogWindows: Windows GetLastError: The operation completed successfully. (0)
+[2020.02.18-20.53.33:162][375]LogThreadingWindows: Error: Runnable thread RenderThread 8 crashed.
+[2020.02.18-20.53.33:162][375]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2020.02.18-20.53.33:162][375]LogWindows: Windows GetLastError: The operation completed successfully. (0)
+[2020.02.18-20.53.33:162][375]LogWindows: Error: HandleError re-entered.
+[2020.02.18-20.53.33:162][375]LogWindows: FPlatformMisc::RequestExit(1)
+[2020.02.18-20.53.33:162][375]LogCore: Engine exit requested (reason: Win RequestExit)
+[2020.02.18-20.53.33:162][375]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2020.02.18-20.53.33:162][375]LogWindows: Error: === Critical error: ===
+[2020.02.18-20.53.33:162][375]LogWindows: Error: 
+[2020.02.18-20.53.33:162][375]LogWindows: Error: Fatal error: [File:D:/Build/++UE4/Sync/Engine/Source/Runtime/RenderCore/Private/RenderingThread.cpp] [Line: 853] 
+[2020.02.18-20.53.33:162][375]LogWindows: Error: Rendering thread exception:
+[2020.02.18-20.53.33:162][375]LogWindows: Error: Fatal error: [File:D:/Build/++UE4/Sync/Engine/Source/Runtime/Windows/D3D11RHI/Private/D3D11Util.cpp] [Line: 198] 
+[2020.02.18-20.53.33:162][375]LogWindows: Error: Unreal Engine is exiting due to D3D device being lost. (Error: 0x887A0006 - 'HUNG')
+[2020.02.18-20.53.33:162][375]LogWindows: Error: 
+[2020.02.18-20.53.33:162][375]LogWindows: Error: 
+[2020.02.18-20.53.33:162][375]LogWindows: Error: Unhandled Exception: 0x00008000
+[2020.02.18-20.53.33:162][375]LogWindows: Error: 
+[2020.02.18-20.53.33:162][375]LogWindows: Error: [Callstack] 0x00007ffa4c189159 KERNELBASE.dll!UnknownFunction []
+[2020.02.18-20.53.33:162][375]LogWindows: Error: [Callstack] 0x00007ff9b7bcc356 UE4Editor-Core.dll!UnknownFunction []
+[2020.02.18-20.53.33:162][375]LogWindows: Error: [Callstack] 0x00007ff9b7bcde41 UE4Editor-Core.dll!UnknownFunction []
+[2020.02.18-20.53.33:162][375]LogWindows: Error: [Callstack] 0x00007ff9b7982c7d UE4Editor-Core.dll!UnknownFunction []
+[2020.02.18-20.53.33:162][375]LogWindows: Error: [Callstack] 0x00007ff9ab2613c9 UE4Editor-D3D11RHI.dll!UnknownFunction []
+[2020.02.18-20.53.33:162][375]LogWindows: Error: [Callstack] 0x00007ff9ab265b9f UE4Editor-D3D11RHI.dll!UnknownFunction []
+[2020.02.18-20.53.33:162][375]LogWindows: Error: [Callstack] 0x00007ff9ab23db04 UE4Editor-D3D11RHI.dll!UnknownFunction []
+[2020.02.18-20.53.33:162][375]LogWindows: Error: [Callstack] 0x00007ff9ab252c1d UE4Editor-D3D11RHI.dll!UnknownFunction []
+[2020.02.18-20.53.33:162][375]LogWindows: Error: [Callstack] 0x00007ffa0fb1b920 UE4Editor-RHI.dll!UnknownFunction []
+[2020.02.18-20.53.33:162][375]LogWindows: Error: [Callstack] 0x00007ffa0fb1eff0 UE4Editor-RHI.dll!UnknownFunction []
+[2020.02.18-20.53.33:162][375]LogWindows: Error: [Callstack] 0x00007ffa0fb1eacf UE4Editor-RHI.dll!UnknownFunction []
+[2020.02.18-20.53.33:162][375]LogWindows: Error: [Callstack] 0x00007ffa0fb1fc8b UE4Editor-RHI.dll!UnknownFunction []
+[2020.02.18-20.53.33:162][375]LogWindows: Error: [Callstack] 0x00007ffa0fb12162 UE4Editor-RHI.dll!UnknownFunction []
+[2020.02.18-20.53.33:162][375]LogWindows: Error: [Callstack] 0x00007ff9aafb765a UE4Editor-SlateRHIRenderer.dll!UnknownFunction []
+[2020.02.18-20.53.33:162][375]LogWindows: Error: [Callstack] 0x00007ff9aafac8ac UE4Editor-SlateRHIRenderer.dll!UnknownFunction []
+[2020.02.18-20.53.33:162][375]LogWindows: Error: [Callstack] 0x00007ff9aafbf60c UE4Editor-SlateRHIRenderer.dll!UnknownFunction []
+[2020.02.18-20.53.33:162][375]LogWindows: Error: [Callstack] 0x00007ff9b7759ff2 UE4Editor-Core.dll!UnknownFunction []
+[2020.02.18-20.53.33:162][375]LogWindows: Error: [Callstack] 0x00007ff9b775a393 UE4Editor-Core.dll!UnknownFunction []
+[2020.02.18-20.53.33:162][375]LogWindows: Error: [Callstack] 0x00007ffa0eda5391 UE4Editor-RenderCore.dll!UnknownFunction []
+[2020.02.18-20.53.33:162][375]LogWindows: Error: [Callstack] 0x00007ffa0edae254 UE4Editor-RenderCore.dll!UnknownFunction []
+[2020.02.18-20.53.33:162][375]LogWindows: Error: [Callstack] 0x00007ff9b7bd380f UE4Editor-Core.dll!UnknownFunction []
+[2020.02.18-20.53.33:162][375]LogWindows: Error: [Callstack] 0x00007ff9b7bd3644 UE4Editor-Core.dll!UnknownFunction []
+[2020.02.18-20.53.33:162][375]LogWindows: Error: [Callstack] 0x00007ffa4e4c7974 KERNEL32.DLL!UnknownFunction []
+[2020.02.18-20.53.33:162][375]LogWindows: Error: [Callstack] 0x00007ffa4f2ba261 ntdll.dll!UnknownFunction []
+[2020.02.18-20.53.33:162][375]LogWindows: Error: 
+[2020.02.18-20.53.33:162][375]LogWindows: Error: 
+[2020.02.18-20.53.33:171][375]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.009 s
+[2020.02.18-20.53.33:171][375]LogOutputDevice: Error: === Handled ensure: ===
+[2020.02.18-20.53.33:171][375]LogOutputDevice: Error: 
+[2020.02.18-20.53.33:171][375]LogOutputDevice: Error: Ensure condition failed: !IsLocked() [File:D:/Build/++UE4/Sync/Engine/Source/Developer/EditorAnalyticsSession/Private/EditorAnalyticsSession.cpp] [Line: 259]
+[2020.02.18-20.53.33:171][375]LogOutputDevice: Error: 
+[2020.02.18-20.53.33:171][375]LogOutputDevice: Error: Stack: 
+[2020.02.18-20.53.33:171][375]LogOutputDevice: Error: [Callstack] 0x00007ffa123be7e9 UE4Editor-EditorAnalyticsSession.dll!UnknownFunction []
+[2020.02.18-20.53.33:171][375]LogOutputDevice: Error: [Callstack] 0x00007ffa123b5e97 UE4Editor-EditorAnalyticsSession.dll!UnknownFunction []
+[2020.02.18-20.53.33:171][375]LogOutputDevice: Error: [Callstack] 0x00007ff9b4a5acea UE4Editor-Engine.dll!UnknownFunction []
+[2020.02.18-20.53.33:171][375]LogOutputDevice: Error: [Callstack] 0x00007ff9b4a46f3e UE4Editor-Engine.dll!UnknownFunction []
+[2020.02.18-20.53.33:171][375]LogOutputDevice: Error: [Callstack] 0x00007ff9b781a8eb UE4Editor-Core.dll!UnknownFunction []
+[2020.02.18-20.53.33:171][375]LogOutputDevice: Error: [Callstack] 0x00007ff9b7bcc4e6 UE4Editor-Core.dll!UnknownFunction []
+[2020.02.18-20.53.33:171][375]LogOutputDevice: Error: [Callstack] 0x00007ff9b7bcde5a UE4Editor-Core.dll!UnknownFunction []
+[2020.02.18-20.53.33:171][375]LogOutputDevice: Error: [Callstack] 0x00007ff9b7982c7d UE4Editor-Core.dll!UnknownFunction []
+[2020.02.18-20.53.33:171][375]LogOutputDevice: Error: [Callstack] 0x00007ffa0ed41635 UE4Editor-RenderCore.dll!UnknownFunction []
+[2020.02.18-20.53.33:171][375]LogOutputDevice: Error: [Callstack] 0x00007ffa0ed74e75 UE4Editor-RenderCore.dll!UnknownFunction []
+[2020.02.18-20.53.33:171][375]LogOutputDevice: Error: [Callstack] 0x00007ffa0ed73ec3 UE4Editor-RenderCore.dll!UnknownFunction []
+[2020.02.18-20.53.33:171][375]LogOutputDevice: Error: [Callstack] 0x00007ff9aafa2b11 UE4Editor-SlateRHIRenderer.dll!UnknownFunction []
+[2020.02.18-20.53.33:171][375]LogOutputDevice: Error: [Callstack] 0x00007ff9aafb8862 UE4Editor-SlateRHIRenderer.dll!UnknownFunction []
+[2020.02.18-20.53.33:171][375]LogOutputDevice: Error: [Callstack] 0x00007ff9fa06f666 UE4Editor-Slate.dll!UnknownFunction []
+[2020.02.18-20.53.33:171][375]LogOutputDevice: Error: [Callstack] 0x00007ff9fa093de2 UE4Editor-Slate.dll!UnknownFunction []
+[2020.02.18-20.53.33:171][375]LogOutputDevice: Error: [Callstack] 0x00007ff9fa093316 UE4Editor-Slate.dll!UnknownFunction []
+[2020.02.18-20.53.33:171][375]LogOutputDevice: Error: [Callstack] 0x00007ff73aec901f UE4Editor.exe!UnknownFunction []
+[2020.02.18-20.53.33:171][375]LogOutputDevice: Error: [Callstack] 0x00007ff73aedc3ec UE4Editor.exe!UnknownFunction []
+[2020.02.18-20.53.33:171][375]LogOutputDevice: Error: [Callstack] 0x00007ff73aedc4ca UE4Editor.exe!UnknownFunction []
+[2020.02.18-20.53.33:171][375]LogOutputDevice: Error: [Callstack] 0x00007ff73aeeceae UE4Editor.exe!UnknownFunction []
+[2020.02.18-20.53.33:171][375]LogOutputDevice: Error: [Callstack] 0x00007ff73aeefcbe UE4Editor.exe!UnknownFunction []
+[2020.02.18-20.53.33:171][375]LogOutputDevice: Error: [Callstack] 0x00007ffa4e4c7974 KERNEL32.DLL!UnknownFunction []
+[2020.02.18-20.53.33:171][375]LogOutputDevice: Error: [Callstack] 0x00007ffa4f2ba261 ntdll.dll!UnknownFunction []
+[2020.02.18-20.53.33:171][375]LogOutputDevice: Error: 
+[2020.02.18-20.53.33:180][375]LogStats:                SubmitErrorReport -  0.000 s
+[2020.02.18-20.53.33:180][375]LogStats:                    SendNewReport -  0.000 s
+[2020.02.18-20.53.33:180][375]LogStats:             FDebug::EnsureFailed -  0.019 s
+[2020.02.18-20.53.33:180][375]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2020.02.18-20.53.33:186][375]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.006 s
+[2020.02.18-20.53.33:186][375]LogOutputDevice: Error: === Handled ensure: ===
+[2020.02.18-20.53.33:186][375]LogOutputDevice: Error: 
+[2020.02.18-20.53.33:186][375]LogOutputDevice: Error: Ensure condition failed: IsLocked() [File:D:/Build/++UE4/Sync/Engine/Source/Developer/EditorAnalyticsSession/Private/EditorAnalyticsSession.cpp] [Line: 370]
+[2020.02.18-20.53.33:186][375]LogOutputDevice: Error: 
+[2020.02.18-20.53.33:186][375]LogOutputDevice: Error: Stack: 
+[2020.02.18-20.53.33:187][375]LogOutputDevice: Error: [Callstack] 0x00007ffa123be709 UE4Editor-EditorAnalyticsSession.dll!UnknownFunction []
+[2020.02.18-20.53.33:187][375]LogOutputDevice: Error: [Callstack] 0x00007ffa123b700c UE4Editor-EditorAnalyticsSession.dll!UnknownFunction []
+[2020.02.18-20.53.33:187][375]LogOutputDevice: Error: [Callstack] 0x00007ff9b4a5acf7 UE4Editor-Engine.dll!UnknownFunction []
+[2020.02.18-20.53.33:187][375]LogOutputDevice: Error: [Callstack] 0x00007ff9b4a46f3e UE4Editor-Engine.dll!UnknownFunction []
+[2020.02.18-20.53.33:187][375]LogOutputDevice: Error: [Callstack] 0x00007ff9b781a8eb UE4Editor-Core.dll!UnknownFunction []
+[2020.02.18-20.53.33:187][375]LogOutputDevice: Error: [Callstack] 0x00007ff9b7bcc4e6 UE4Editor-Core.dll!UnknownFunction []
+[2020.02.18-20.53.33:187][375]LogOutputDevice: Error: [Callstack] 0x00007ff9b7bcde5a UE4Editor-Core.dll!UnknownFunction []
+[2020.02.18-20.53.33:187][375]LogOutputDevice: Error: [Callstack] 0x00007ff9b7982c7d UE4Editor-Core.dll!UnknownFunction []
+[2020.02.18-20.53.33:187][375]LogOutputDevice: Error: [Callstack] 0x00007ffa0ed41635 UE4Editor-RenderCore.dll!UnknownFunction []
+[2020.02.18-20.53.33:187][375]LogOutputDevice: Error: [Callstack] 0x00007ffa0ed74e75 UE4Editor-RenderCore.dll!UnknownFunction []
+[2020.02.18-20.53.33:187][375]LogOutputDevice: Error: [Callstack] 0x00007ffa0ed73ec3 UE4Editor-RenderCore.dll!UnknownFunction []
+[2020.02.18-20.53.33:187][375]LogOutputDevice: Error: [Callstack] 0x00007ff9aafa2b11 UE4Editor-SlateRHIRenderer.dll!UnknownFunction []
+[2020.02.18-20.53.33:187][375]LogOutputDevice: Error: [Callstack] 0x00007ff9aafb8862 UE4Editor-SlateRHIRenderer.dll!UnknownFunction []
+[2020.02.18-20.53.33:187][375]LogOutputDevice: Error: [Callstack] 0x00007ff9fa06f666 UE4Editor-Slate.dll!UnknownFunction []
+[2020.02.18-20.53.33:187][375]LogOutputDevice: Error: [Callstack] 0x00007ff9fa093de2 UE4Editor-Slate.dll!UnknownFunction []
+[2020.02.18-20.53.33:187][375]LogOutputDevice: Error: [Callstack] 0x00007ff9fa093316 UE4Editor-Slate.dll!UnknownFunction []
+[2020.02.18-20.53.33:187][375]LogOutputDevice: Error: [Callstack] 0x00007ff73aec901f UE4Editor.exe!UnknownFunction []
+[2020.02.18-20.53.33:187][375]LogOutputDevice: Error: [Callstack] 0x00007ff73aedc3ec UE4Editor.exe!UnknownFunction []
+[2020.02.18-20.53.33:187][375]LogOutputDevice: Error: [Callstack] 0x00007ff73aedc4ca UE4Editor.exe!UnknownFunction []
+[2020.02.18-20.53.33:187][375]LogOutputDevice: Error: [Callstack] 0x00007ff73aeeceae UE4Editor.exe!UnknownFunction []
+[2020.02.18-20.53.33:187][375]LogOutputDevice: Error: [Callstack] 0x00007ff73aeefcbe UE4Editor.exe!UnknownFunction []
+[2020.02.18-20.53.33:187][375]LogOutputDevice: Error: [Callstack] 0x00007ffa4e4c7974 KERNEL32.DLL!UnknownFunction []
+[2020.02.18-20.53.33:187][375]LogOutputDevice: Error: [Callstack] 0x00007ffa4f2ba261 ntdll.dll!UnknownFunction []
+[2020.02.18-20.53.33:187][375]LogOutputDevice: Error: 
+[2020.02.18-20.53.33:192][375]LogStats:                SubmitErrorReport -  0.000 s
+[2020.02.18-20.53.33:192][375]LogStats:                    SendNewReport -  0.000 s
+[2020.02.18-20.53.33:192][375]LogStats:             FDebug::EnsureFailed -  0.011 s
+[2020.02.18-20.53.33:192][375]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2020.02.18-20.53.33:197][375]LogExit: Executing StaticShutdownAfterError
+[2020.02.18-20.53.33:197][375]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.005 s
+[2020.02.18-20.53.33:197][375]LogOutputDevice: Error: === Handled ensure: ===
+[2020.02.18-20.53.33:197][375]LogOutputDevice: Error: 
+[2020.02.18-20.53.33:197][375]LogOutputDevice: Error: Ensure condition failed: IsLocked() [File:D:/Build/++UE4/Sync/Engine/Source/Developer/EditorAnalyticsSession/Private/EditorAnalyticsSession.cpp] [Line: 279]
+[2020.02.18-20.53.33:197][375]LogOutputDevice: Error: 
+[2020.02.18-20.53.33:197][375]LogOutputDevice: Error: Stack: 
+[2020.02.18-20.53.33:197][375]LogOutputDevice: Error: [Callstack] 0x00007ffa123be629 UE4Editor-EditorAnalyticsSession.dll!UnknownFunction []
+[2020.02.18-20.53.33:197][375]LogOutputDevice: Error: [Callstack] 0x00007ffa123b8e35 UE4Editor-EditorAnalyticsSession.dll!UnknownFunction []
+[2020.02.18-20.53.33:197][375]LogOutputDevice: Error: [Callstack] 0x00007ff9b4a5acfd UE4Editor-Engine.dll!UnknownFunction []
+[2020.02.18-20.53.33:197][375]LogOutputDevice: Error: [Callstack] 0x00007ff9b4a46f3e UE4Editor-Engine.dll!UnknownFunction []
+[2020.02.18-20.53.33:197][375]LogOutputDevice: Error: [Callstack] 0x00007ff9b781a8eb UE4Editor-Core.dll!UnknownFunction []
+[2020.02.18-20.53.33:197][375]LogOutputDevice: Error: [Callstack] 0x00007ff9b7bcc4e6 UE4Editor-Core.dll!UnknownFunction []
+[2020.02.18-20.53.33:197][375]LogOutputDevice: Error: [Callstack] 0x00007ff9b7bcde5a UE4Editor-Core.dll!UnknownFunction []
+[2020.02.18-20.53.33:197][375]LogOutputDevice: Error: [Callstack] 0x00007ff9b7982c7d UE4Editor-Core.dll!UnknownFunction []
+[2020.02.18-20.53.33:197][375]LogOutputDevice: Error: [Callstack] 0x00007ffa0ed41635 UE4Editor-RenderCore.dll!UnknownFunction []
+[2020.02.18-20.53.33:197][375]LogOutputDevice: Error: [Callstack] 0x00007ffa0ed74e75 UE4Editor-RenderCore.dll!UnknownFunction []
+[2020.02.18-20.53.33:197][375]LogOutputDevice: Error: [Callstack] 0x00007ffa0ed73ec3 UE4Editor-RenderCore.dll!UnknownFunction []
+[2020.02.18-20.53.33:197][375]LogOutputDevice: Error: [Callstack] 0x00007ff9aafa2b11 UE4Editor-SlateRHIRenderer.dll!UnknownFunction []
+[2020.02.18-20.53.33:197][375]LogOutputDevice: Error: [Callstack] 0x00007ff9aafb8862 UE4Editor-SlateRHIRenderer.dll!UnknownFunction []
+[2020.02.18-20.53.33:197][375]LogOutputDevice: Error: [Callstack] 0x00007ff9fa06f666 UE4Editor-Slate.dll!UnknownFunction []
+[2020.02.18-20.53.33:197][375]LogOutputDevice: Error: [Callstack] 0x00007ff9fa093de2 UE4Editor-Slate.dll!UnknownFunction []
+[2020.02.18-20.53.33:197][375]LogOutputDevice: Error: [Callstack] 0x00007ff9fa093316 UE4Editor-Slate.dll!UnknownFunction []
+[2020.02.18-20.53.33:197][375]LogOutputDevice: Error: [Callstack] 0x00007ff73aec901f UE4Editor.exe!UnknownFunction []
+[2020.02.18-20.53.33:197][375]LogOutputDevice: Error: [Callstack] 0x00007ff73aedc3ec UE4Editor.exe!UnknownFunction []
+[2020.02.18-20.53.33:197][375]LogOutputDevice: Error: [Callstack] 0x00007ff73aedc4ca UE4Editor.exe!UnknownFunction []
+[2020.02.18-20.53.33:197][375]LogOutputDevice: Error: [Callstack] 0x00007ff73aeeceae UE4Editor.exe!UnknownFunction []
+[2020.02.18-20.53.33:198][375]LogOutputDevice: Error: [Callstack] 0x00007ff73aeefcbe UE4Editor.exe!UnknownFunction []
+[2020.02.18-20.53.33:198][375]LogOutputDevice: Error: [Callstack] 0x00007ffa4e4c7974 KERNEL32.DLL!UnknownFunction []
+[2020.02.18-20.53.33:198][375]LogOutputDevice: Error: [Callstack] 0x00007ffa4f2ba261 ntdll.dll!UnknownFunction []
+[2020.02.18-20.53.33:198][375]LogOutputDevice: Error: 
+[2020.02.18-20.53.33:202][375]LogStats:                SubmitErrorReport -  0.000 s
+[2020.02.18-20.53.33:202][375]LogStats:                    SendNewReport -  0.000 s
+[2020.02.18-20.53.33:202][375]LogStats:             FDebug::EnsureFailed -  0.011 s
+[2020.02.18-20.53.33:203][375]LogWindows: FPlatformMisc::RequestExit(1)
+[2020.02.18-20.53.33:213][375]Log file closed, 02/18/20 15:53:33
