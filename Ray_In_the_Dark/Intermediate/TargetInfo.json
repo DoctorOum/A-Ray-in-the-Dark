@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Ray_In_the_Dark",
+			"Path": "C:\\Users\\seans\\OneDrive\\Documents\\GitHub\\A-Ray-in-the-Dark\\Ray_In_the_Dark\\Source\\Ray_In_the_Dark.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "Ray_In_the_DarkEditor",
+			"Path": "C:\\Users\\seans\\OneDrive\\Documents\\GitHub\\A-Ray-in-the-Dark\\Ray_In_the_Dark\\Source\\Ray_In_the_DarkEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

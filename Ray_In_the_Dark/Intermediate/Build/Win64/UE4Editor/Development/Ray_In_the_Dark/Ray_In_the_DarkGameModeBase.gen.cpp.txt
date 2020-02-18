@@ -1,0 +1,9 @@
+C:\Users\seans\OneDrive\Documents\GitHub\A-Ray-in-the-Dark\Ray_In_the_Dark\Intermediate\Build\Win64\UE4Editor\Development\Ray_In_the_Dark\Definitions.Ray_In_the_Dark.h
+C:\Program Files\Epic Games\UE_4.24\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files\Epic Games\UE_4.24\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:\Users\seans\OneDrive\Documents\GitHub\A-Ray-in-the-Dark\Ray_In_the_Dark\Source\Ray_In_the_Dark/Ray_In_the_DarkGameModeBase.h
+C:\Program Files\Epic Games\UE_4.24\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+C:\Program Files\Epic Games\UE_4.24\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+C:\Program Files\Epic Games\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+C:\Program Files\Epic Games\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+c:\users\seans\onedrive\documents\github\a-ray-in-the-dark\ray_in_the_dark\intermediate\build\win64\ue4editor\inc\ray_in_the_dark\Ray_In_the_DarkGameModeBase.generated.h

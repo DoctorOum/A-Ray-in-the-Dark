@@ -1,0 +1,16 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-Ray_In_the_Dark.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\seans\OneDrive\Documents\GitHub\A-Ray-in-the-Dark\Ray_In_the_Dark\Intermediate\Build\Win64\Ray_In_the_DarkEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\seans\OneDrive\Documents\GitHub\A-Ray-in-the-Dark\Ray_In_the_Dark\Intermediate\Build\Win64\UE4Editor\Development\Ray_In_the_Dark\Ray_In_the_Dark.cpp.obj"
+"C:\Users\seans\OneDrive\Documents\GitHub\A-Ray-in-the-Dark\Ray_In_the_Dark\Intermediate\Build\Win64\UE4Editor\Development\Ray_In_the_Dark\Ray_In_the_DarkGameModeBase.cpp.obj"
+"C:\Users\seans\OneDrive\Documents\GitHub\A-Ray-in-the-Dark\Ray_In_the_Dark\Intermediate\Build\Win64\UE4Editor\Development\Ray_In_the_Dark\Ray_In_the_Dark.init.gen.cpp.obj"
+"C:\Users\seans\OneDrive\Documents\GitHub\A-Ray-in-the-Dark\Ray_In_the_Dark\Intermediate\Build\Win64\UE4Editor\Development\Ray_In_the_Dark\Ray_In_the_DarkGameModeBase.gen.cpp.obj"
+"C:\Users\seans\OneDrive\Documents\GitHub\A-Ray-in-the-Dark\Ray_In_the_Dark\Intermediate\Build\Win64\UE4Editor\Development\Ray_In_the_Dark\Default.rc2.res"
+/OUT:"C:\Users\seans\OneDrive\Documents\GitHub\A-Ray-in-the-Dark\Ray_In_the_Dark\Intermediate\Build\Win64\UE4Editor\Development\Ray_In_the_Dark\UE4Editor-Ray_In_the_Dark.lib"
+/INCLUDE:IMPLEMENT_MODULE_Ray_In_the_Dark

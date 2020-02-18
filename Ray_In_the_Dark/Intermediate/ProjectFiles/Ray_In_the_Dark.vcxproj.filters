@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Ray_In_the_Dark.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{CBB561E1-1BCE-4653-8D3C-64FC3A4441B6}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Ray_In_the_Dark.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\Ray_In_the_DarkEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{91897ACE-70E8-4207-B097-E90E6D74D4C4}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\Ray_In_the_Dark">
+      <UniqueIdentifier>{B93C48BA-5458-4B4A-850E-30E2BAF40789}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Ray_In_the_Dark\Ray_In_the_Dark.Build.cs">
+      <Filter>Source\Ray_In_the_Dark</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Ray_In_the_Dark\Ray_In_the_Dark.cpp">
+      <Filter>Source\Ray_In_the_Dark</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Ray_In_the_Dark\Ray_In_the_Dark.h">
+      <Filter>Source\Ray_In_the_Dark</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Ray_In_the_Dark\Ray_In_the_DarkGameModeBase.cpp">
+      <Filter>Source\Ray_In_the_Dark</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Ray_In_the_Dark\Ray_In_the_DarkGameModeBase.h">
+      <Filter>Source\Ray_In_the_Dark</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
